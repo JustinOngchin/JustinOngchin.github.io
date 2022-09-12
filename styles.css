@@ -1,0 +1,30 @@
+.menu {
+    font-size: 200px;
+}
+div {
+    background-color: aquamarine;
+}
+.body {
+    color: dodgerblue;
+}
+a {
+    color:darkgoldenrod;
+}
+
+#magnify:hover{
+    transform: scale(120%);
+}
+
+
+@media screen and (max-width: 600px) {
+    div {
+      background-color: rgb(200, 144, 238);
+    }
+  }
+
+span {color: red;
+
+}
+  
+
+
