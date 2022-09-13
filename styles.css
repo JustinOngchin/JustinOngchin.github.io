@@ -28,3 +28,6 @@ span {color: red;
   
 
 
+th , tr, td {
+    border-style: dashed;
+}
